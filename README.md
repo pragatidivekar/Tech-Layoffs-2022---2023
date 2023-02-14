@@ -1,5 +1,5 @@
 # Tech-Layoffs-2022-2023
-The big giant in the Tech market has laid of thousands of employees in past 1one year.
+The big giants in the Tech market has laid of thousands of employees in past 1one year.
 This project has outlined the overall details in a Tableau dashboard.
 - Data Cleaning - MS EXCEL
 - Data Visualization - Tableau
